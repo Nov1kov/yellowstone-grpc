@@ -6538,7 +6538,6 @@ dependencies = [
  "prost 0.11.9",
  "prost 0.13.5",
  "prost-types 0.13.5",
- "protobuf-src",
  "serde",
  "smallvec",
  "solana-account-decoder",
